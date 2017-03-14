@@ -1,0 +1,28 @@
+{
+  "author": {
+    "name": "yangjin"
+  },
+  "dependencies": {},
+  "description": "highcharts-more module for react Highcharts. This package is generated based on highcharts-release v5.0.2",
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [
+    "charts",
+    "highcharts",
+    "highcharts-more"
+  ],
+  "license": "CC",
+  "main": "more.js",
+  "maintainers": [
+    {
+      "name": "yangjin",
+      "email": "yangzhen.jin@gmail.com"
+    }
+  ],
+  "name": "more-highcharts",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.5.09"
+}
